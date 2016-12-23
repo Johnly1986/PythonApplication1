@@ -1,0 +1,1 @@
+sqlacodegen mysql://johnly:123456@127.0.0.1:3306/test > models.py
